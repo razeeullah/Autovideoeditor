@@ -1,0 +1,14 @@
+AutoEditor for macOS (arm64)
+
+1) Move this AutoEditor folder anywhere you like (e.g. Applications).
+2) Double-click "AutoEditor.command". Your browser opens the editor.
+
+First launch — macOS Gatekeeper:
+  Because this app isn't from the App Store, macOS may say it's from an
+  "unidentified developer". Either:
+   - Right-click "AutoEditor.command" and "AutoEditor" -> Open -> Open, OR
+   - Open Terminal and run (drag the folder in to get its path):
+       xattr -dr com.apple.quarantine "/path/to/AutoEditor"
+
+Keep the Terminal window open while you work; close it to stop the app.
+Everything runs on your Mac — nothing is uploaded.

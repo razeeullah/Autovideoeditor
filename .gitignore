@@ -1,0 +1,16 @@
+# Large binaries and debug files
+AutoEditor
+AutoEditor.bak
+ffmpeg
+node-v20.20.2-darwin-x64/
+node-v20.20.2-darwin-x64.tar.gz
+otool.txt
+sea-prep.blob
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Mac quarantine files
+._*

@@ -36,7 +36,7 @@ If you want to run this tool on your own computer, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Autovideoeditor.git
+   git clone https://github.com/razeeullah/Autovideoeditor.git
    cd Autovideoeditor/AutoVidEditor
    ```
 
